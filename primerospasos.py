@@ -1,0 +1,2 @@
+x = "aaaaaaaaaaa"
+print x
